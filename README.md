@@ -16,65 +16,128 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:*Tapfuma Arnold Mundondo*
+- **Date:*17/04/2024*
+- **Current Role/Position:*N/a*
+- **Field of Interest:*Software development*
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
+    - Problem solving
+    - Ability to work in a team
+    - Strong work ethic
+    - Quantitative skills
+    - Communication skills and areas of expertise.
+    - Goal oriented
+     
     - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+    - Networking skills.
+    - Develop mentorship skills.
+  
+3. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Respect
+    - Ethics
+    - Accountability
+    - Growth
+    - Hardwork
+    - Positivity
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Internet Software and Services
+    - Telecommunications
+    - Amazon
+    - Fintech
+    - Systems Applications Protocol
+    - Dell
+    - Compaq
+    - Novell
+    - IBM & etc
+    - Internet Software and services, Telecommunications, Fintech, SAP, Amazon and (etc) piqued my interest.
+  
+    - Roles explored
+    - Software development.
+    - Data Scientist.
+    - Computer System analyst
+    - Data analyst 
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+    - Proficiency in multi programming languages.
+    - Understanding of software development methodologies.
+    - Familiarity with version control systems.
+    - Problem-solving and logical thinking abilities
+      
     - Identify any gaps or areas for further exploration.
+    - Machine Learning
+    - Python Programming
+    - PHP Programming
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - I'd like to become instrumental in helping my employer supersede the competition.
+    - I'm in interested in applying my creative talents to achieving innovative results.
+    - My goal is to join a team that doesn't accept second. bestList your specific, measurable, achievable, relevant, and time-bound goals.
+    - Improve networking and educational growth.
+    - Generate more revenue to the company.
+ 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
-
+    - Improve efficiency rates with improving technology.
+    - To work closely with the company's clientele and oversee major projects.
+    - Become a mentor.
+    - Become an expert in tech field.
+    - Improve networking
+   
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+    - Currently studying software development.
+    - Exploring the tech industry.
+      
     - Include any resources or support required.
+    - Mentorship.
+      
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+    - Internship.
+    - Mentorship.
+      
     - Consider additional skills, experiences, or qualifications needed.
+    - Degree and Masters in Tech world.
+    - Aquire different certificates in tech industry.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+    - Funding for furthering my studies into tech world.
+    - Lack of opportunities.
+    - Lack of mentorship.
+      
     - Consider strategies to overcome these challenges.
+    - Studing through online turtorials and websites
+    - Self motivation.
+    - Taking nagative feedback as positivity to learn more and grow as a person
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Highlight any opportunities you can leverage for career growth. 
+    - Networking.
+    - Leadership skills.
+    - Funding for further education.
 
 ### Submission
 
